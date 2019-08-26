@@ -1,6 +1,0 @@
-INDEX VERSION 1.3+C:\Users\testuser\Desktop\workspace\workspace-tamaki\Webpro\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-684341572.index
-806901918.index
-1844950206.index
-3920141572.index
-726817018.index
