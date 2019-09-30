@@ -28,7 +28,7 @@ public class HelloStrutsAction extends ActionSupport {
 		return helloStrutsDTOList;
 	}
 	public void setHelloStrutsDTOList(List<HelloStrutsDTO> helloStrutsDTOList){
-		helloStrutsDTOList = helloStrutsDTOList;
+		this.helloStrutsDTOList = helloStrutsDTOList;
 	}
 
 }
