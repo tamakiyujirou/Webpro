@@ -13,7 +13,7 @@
 	</s:form>
 
 	<s:form action="WelcomeAction">
-		<s:submit value="Welcome"/>
+		<s:submit value="Welcom"/>
 	</s:form>
 </body>
 </html>
