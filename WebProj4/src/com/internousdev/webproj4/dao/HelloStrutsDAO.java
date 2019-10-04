@@ -20,7 +20,7 @@ public class HelloStrutsDAO {
 
 		String sql="select * fron users";
 		try{
-			PreparedStatement ps=con.prepareStatement(sql);
+			PreparedStatement ps = con.prepareStatement(sql);
 			ResultSet rs=ps.executeQuery();
 
 			while(rs.next()){
