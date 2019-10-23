@@ -25,7 +25,7 @@
 		<h3>新規ユーザー登録</h3>
 		GET通信
 		<s:form method="get" action="TestAction">
-		<s:textfield neme="username"/>
+		<s:textfield name="username"/>
 		<s:password name="password"/>
 		<s:submit value="送信"/>
 		</s:form>
